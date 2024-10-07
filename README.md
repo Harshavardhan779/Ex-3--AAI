@@ -1,7 +1,7 @@
-<H5> Name :HARSHAVRDHAN </H5>
-<H5>Register No.: 212222240114 </H5>
-<H5> Experiment 3 </H5>
-<H5> DATE: 12.09.24</H5>
+<H3> Name :HARSHAVRDHAN </H3>
+<H3>Register No.: 212222240114 </H3>
+<H3> Experiment 3 </H3>
+<H3> DATE: 12.09.24</H3>
 <H1 align-item="center"> Implementation of Approximate Inference in Bayesian Networks </H1>
 
 ## Aim: 
